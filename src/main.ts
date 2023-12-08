@@ -19,7 +19,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
     </div>
     <ul class="social">
       <li><a href="https://twitter.com/Encrypt_Edge"><img src="https://i.ibb.co/Wnxq2Nq/twitter.png"></a></li>
-      <li><a href="https://instagram.com/encryptedge"><img src="https://i.ibb.co/cbFz990/instagram.png"></a></li>
+      <li><a href="https://instagram.com/encryptedge"><img src="https://i.ibb.co/ySwtH4B/instagram.png"></a></li>
     </ul>
   </section>
 `
