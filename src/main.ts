@@ -15,7 +15,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
       </div>
       <h3>Organised by EncryptEdge</h3>
       <p>Based on Republic Day Theme</p>
-      <a href="#">Stay Tuned</a>
+      <a href="https://blog.encryptedge.in/2023/RCS-CTF-2024/">Read Blog</a>
     </div>
     <ul class="social">
       <li><a href="https://twitter.com/Encrypt_Edge"><img src="https://i.ibb.co/Wnxq2Nq/twitter.png"></a></li>
